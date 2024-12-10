@@ -1,0 +1,624 @@
+transaction_id,transaction_type,gender,city,state,coast,sale_amount
+da79ec9c-eaba-4b1b-9eb6-935f59183a72,Refund_Credit,female,Nashville,TN,South Coast,63.24
+7194b400-0341-4ef0-a157-dda23b0f6c9c,Gift_Card,rather not say,Jacksonville,FL,East Coast,52.64
+b6d42d6c-54af-4de3-892c-59d62df85f09,Debit,rather not say,"Washington, D.C.",DC,East Coast,35.24
+24f73a39-3733-4879-b349-818cd4a4d793,Cash,rather not say,Raleigh,NC,South Coast,81.81
+009f2e99-620c-4cf4-8cee-fec8b48ca5cb,Cash,rather not say,New York,NY,East Coast,74.21
+d0551ef4-42e9-4bc3-ae28-55d17df2880a,Credit,male,Charlotte,NC,South Coast,6.64
+04e6ccff-0b8f-42ec-9014-7a9b11338cdc,Debit,female,New York,NY,East Coast,21.29
+fa66f4dc-5341-46cc-99d6-712cd21d5b28,Debit,female,Cleveland,OH,Midwest,65.58
+25b56571-8380-4dcf-ba02-2bf27b683660,Credit,male,Los Angeles,CA,West Coast,10.35
+af555159-2bc4-4023-9d24-a0cfef1095aa,Credit,rather not say,"Washington, D.C.",DC,East Coast,89.06
+078021e7-99bf-4a51-a53a-afaf18e31d98,Debit,female,Dallas,TX,South Coast,57.73
+03690c80-a264-4e6a-84aa-293b070bd5ab,Credit,rather not say,Austin,TX,South Coast,8.96
+ad8fcff7-f680-4c31-8d46-1905677581b8,Gift_Card,female,Los Angeles,CA,West Coast,35.77
+662ea2fc-0db9-47eb-b517-3a6419c32fd2,Credit,female,Atlanta,GA,South Coast,37.72
+7040b112-a3f3-4fb2-83b9-db828ab68b28,Credit,male,Atlanta,GA,South Coast,91.84
+cdeca27f-5613-4a97-a235-9a9f35c2b944,Refund_Credit,female,New York,NY,East Coast,42.06
+0c36ba27-6fe6-4573-9d86-19c8cc2f0865,Refund_Credit,rather not say,Atlanta,GA,South Coast,10.71
+208f80bc-71e4-4924-b458-50713ce13274,Refund_Credit,female,New York,NY,East Coast,67.04
+059fe0e0-49e8-4c3e-8ea3-144b0cd2d00b,Cash,male,Orlando,FL,East Coast,73.23
+7cbeec09-42b5-41b6-b0be-7ac9a61f8a31,Refund_Credit,male,Dallas,TX,South Coast,65.58
+5810d6a5-3ea0-46a9-8eda-f494b3b10512,Refund_Credit,female,Houston,TX,South Coast,31.65
+ba0cb1b5-4757-44f7-a9b0-47c65f3fde36,Debit,female,Tampa,FL,East Coast,74.16
+c1e061c5-22fa-402e-9763-3c575a63cc51,Gift_Card,male,San Francisco,CA,West Coast,42.5
+70820002-785e-4092-bf29-55c3cf367fec,Cash,female,Jacksonville,FL,East Coast,71.74
+2072e98d-f87b-44c2-be95-46184dbca698,Gift_Card,female,Los Angeles,CA,West Coast,8.02
+cf82f901-3d58-4a42-b7fa-8c240c3b1cf0,Credit,female,Charlotte,NC,South Coast,78.03
+79309ea1-8641-492c-96c7-f118c1d3fe89,Cash,female,Salt Lake City,UT,West Coast,70.54
+bf487f0b-4ada-4ebb-b06b-b5060001088b,Debit,male,"Washington, D.C.",DC,East Coast,94.23
+cdc543aa-b30d-48a9-8270-7bc1204e28d2,Cash,female,Houston,TX,South Coast,85.08
+02a6fa8b-8470-4ac0-97ca-ea57714dc06c,Cash,rather not say,Minneapolis,MN,Midwest,88.11
+bb5938f2-3ebb-4305-b962-246bb7773489,Cash,female,Atlanta,GA,South Coast,53.98
+74f62ab4-1562-4dbd-a8a9-2cbe8049f769,Gift_Card,rather not say,Salt Lake City,UT,West Coast,88.8
+6bcab11b-36ed-41d6-997b-90972220ca21,Cash,female,Raleigh,NC,South Coast,67.53
+3b589492-9ecd-41ac-a03b-b265a9f161ee,Cash,female,Los Angeles,CA,West Coast,10.26
+accc51df-213c-4361-9687-8ebc673e87c3,Credit,female,San Diego,CA,West Coast,27.95
+2d4b0f10-ef84-4054-8ccb-40be2721528f,Cash,female,Houston,TX,South Coast,68.62
+d3071834-3bd5-49c5-bbbc-bbb4f8cf9352,Credit,female,Philadelphia,PA,East Coast,67.32
+59005b10-b36e-473b-ae01-794051813ae8,Refund_Credit,rather not say,Indianapolis,IN,Midwest,62.53
+f6f287f2-cce9-4eae-9041-73743352ab57,Refund_Credit,rather not say,Detroit,MI,Midwest,32.78
+b28f5bf6-df28-4f06-9c3c-4034bee6e2cf,Debit,female,Phoenix,AZ,West Coast,53.89
+716e6ceb-2518-4dc4-aea8-59983d376e4e,Credit,female,Denver,CO,Midwest,18.73
+c4a912be-c715-4548-9d8f-1e1ab371e0df,Credit,male,Minneapolis,MN,Midwest,25.07
+604f7257-e7f2-466b-8382-c154c832da23,Debit,male,Salt Lake City,UT,West Coast,77.21
+f91049c6-1f2e-4787-9cf3-daad3071ba79,Gift_Card,male,Houston,TX,South Coast,68.7
+f5628618-4f41-4260-a4d4-8528678dcfe0,Cash,rather not say,Raleigh,NC,South Coast,64.25
+401c1632-b5bd-4d11-b494-b0443890cac8,Cash,female,Seattle,WA,West Coast,47.06
+bb8e677e-e1e6-48e9-8bdc-2dd099d276b6,Debit,male,San Francisco,CA,West Coast,28.96
+7ebccbea-b15a-433b-b48c-925205bbb987,Credit,male,Orlando,FL,East Coast,86.39
+913f9886-0b22-40c7-b0d9-820743c9f6d8,Credit,rather not say,Orlando,FL,East Coast,93.83
+3ef02ad0-25b1-474f-9c20-d2038d282926,Debit,rather not say,Raleigh,NC,South Coast,88.03
+0155635a-9df4-4751-b7b6-e7007c373985,Gift_Card,female,Raleigh,NC,South Coast,27.33
+fc8ba074-95c0-4cf4-9688-f8430833c3c6,Debit,male,Orlando,FL,East Coast,83.88
+4d6c3fab-45e5-4fe5-ba55-5cf6f78640ce,Cash,female,Miami,FL,East Coast,62.16
+aba0facc-14a6-4060-bf14-2940764b2f07,Debit,female,Chicago,IL,Midwest,22.37
+a58c1d07-77a9-4d3a-a99d-ccdb0f606e55,Credit,male,Los Angeles,CA,West Coast,31.48
+a0a46171-3022-491c-b9d5-120580980718,Debit,rather not say,Portland,OR,West Coast,81.61
+92d655c7-3fee-4921-b39c-2b1ac19b13a3,Credit,male,Miami,FL,East Coast,92.71
+cd8bd534-2933-4e89-b381-e81d43ff35e5,Cash,male,Austin,TX,South Coast,78.02
+ee1be1f7-29ba-49ff-b080-411c91b9c37f,Debit,rather not say,Salt Lake City,UT,West Coast,96.12
+bf67e71f-fdc9-4de4-8ece-efead5397008,Refund_Credit,male,Raleigh,NC,South Coast,84.24
+a2b379cd-320d-4bbd-9c53-2f96bee51ae4,Refund_Credit,rather not say,Indianapolis,IN,Midwest,77.07
+e7c73a32-f061-4775-b117-944283fb2ab7,Refund_Credit,male,Salt Lake City,UT,West Coast,91.85
+a841345d-f158-4e02-9308-c61eef7b9d49,Refund_Credit,rather not say,San Francisco,CA,West Coast,19.49
+bd6bb5f2-b9f2-4d75-92c3-c08e10756bb1,Gift_Card,female,Minneapolis,MN,Midwest,72.59
+3e5a8970-cc7e-45a6-b110-eb4bf397755d,Gift_Card,female,Chicago,IL,Midwest,28.18
+782b9075-aa50-4614-b841-cf6bacff1388,Gift_Card,female,Denver,CO,Midwest,10.12
+2f21f740-8d25-4a94-98f3-5349a69e5934,Debit,male,Seattle,WA,West Coast,90.6
+5a2c084b-151c-4084-b865-53872d9a99d3,Cash,male,Raleigh,NC,South Coast,77.74
+a87df9d4-a3cb-4c9e-b223-766ceea0d3ad,Cash,male,Orlando,FL,East Coast,34.55
+f7fe866c-550b-47b4-bce8-ce06c2cdb296,Credit,female,Miami,FL,East Coast,87.03
+059e3615-dab2-4b92-b8ea-dc44230e5265,Refund_Credit,female,Phoenix,AZ,West Coast,42.24
+b64c8236-9cff-4d51-889a-f47ce6a5e1af,Refund_Credit,male,San Francisco,CA,West Coast,63.9
+1f95d3f2-e357-4a88-804f-45f3b5809aaa,Debit,female,Austin,TX,South Coast,5.4
+52a948ca-3c34-400e-a5a7-cf8c8b2c6092,Refund_Credit,rather not say,San Diego,CA,West Coast,46.57
+db8cffe3-e928-4327-bf32-a1c3bd9acfa6,Debit,female,Denver,CO,Midwest,20.02
+47cbaec6-e31c-42c3-8720-d6dd1022c592,Debit,rather not say,St. Louis,MO,Midwest,92.9
+d9b54e76-7bd4-4d7d-afd4-80e4a57897bb,Refund_Credit,male,Seattle,WA,West Coast,36.23
+4663336f-c838-411d-b8df-1ad4993c9758,Refund_Credit,male,St. Louis,MO,Midwest,94.49
+b65d9a8f-bdd7-4b96-8b1b-e453fa70437d,Credit,rather not say,Detroit,MI,Midwest,8.89
+354730ff-18e4-419e-9372-0b43866e1900,Cash,rather not say,Portland,OR,West Coast,49.17
+1f45de02-7ed6-43fe-ba44-f63d97667acd,Gift_Card,female,Detroit,MI,Midwest,59.55
+279c6ab5-1dd6-45d5-bab7-472467587880,Cash,male,Salt Lake City,UT,West Coast,89.91
+f3d1d577-68cc-434e-94d9-cf64049a9617,Credit,rather not say,Philadelphia,PA,East Coast,84.85
+5e548185-593d-4ba4-9033-1907a90013aa,Debit,female,Portland,OR,West Coast,27.77
+965f84f7-38e1-4ac0-94c1-8522b49c65e0,Credit,female,Charlotte,NC,South Coast,8.19
+c73766d7-0cb1-468d-8fe6-6605ad213e07,Gift_Card,female,New York,NY,East Coast,25.41
+3a1032ba-48b4-4df1-84cb-774828a24ea8,Gift_Card,female,New York,NY,East Coast,88.31
+806639a9-fa75-4303-b53e-638083ec52a5,Cash,rather not say,Chicago,IL,Midwest,75.98
+44a87f8f-4a77-4999-9ff2-261a773162be,Gift_Card,rather not say,Indianapolis,IN,Midwest,53.16
+af5757f2-b6df-4e3e-935a-149b2a8f9012,Credit,female,Tampa,FL,East Coast,93.98
+6a843796-7ca0-4b32-81c5-e23ab527689f,Credit,female,Orlando,FL,East Coast,13.89
+edbd6862-1233-45ac-b05f-9c83f8429867,Refund_Credit,rather not say,Jacksonville,FL,East Coast,9.14
+3dbd0d87-cbeb-4f89-8743-67ca3660e398,Credit,female,Seattle,WA,West Coast,63.13
+66407bb1-5523-47af-8023-b2fc62bdfe82,Credit,female,Austin,TX,South Coast,52.27
+3bb6b579-b95a-43d7-94e6-24e48e318088,Debit,male,Houston,TX,South Coast,76.97
+005239d4-8b1c-4721-b9d0-0efe11498979,Refund_Credit,rather not say,Minneapolis,MN,Midwest,19.36
+33883c2f-e2e9-423c-96c5-29908976d1c1,Refund_Credit,female,Atlanta,GA,South Coast,21.4
+f1696734-dbfd-40c1-815d-9e7070bb216e,Debit,male,Indianapolis,IN,Midwest,7.47
+cec998b7-919a-4266-a1e8-ebdba6f0904c,Gift_Card,rather not say,Tampa,FL,East Coast,64.14
+d32b916a-3405-4a66-b9eb-3c746da83c1d,Cash,female,Austin,TX,South Coast,48.7
+54e53615-3670-435f-9698-0798171bd1fa,Debit,rather not say,Orlando,FL,East Coast,8.05
+12ecf449-b4cf-4499-ba89-2d0745ea478b,Refund_Credit,rather not say,Cleveland,OH,Midwest,32.99
+a0709051-d906-49d0-ba3c-5e09a1e55880,Cash,rather not say,Los Angeles,CA,West Coast,14.12
+e88c4bc4-a01f-40f9-b431-01af08ef40de,Gift_Card,rather not say,Boston,MA,East Coast,72.94
+611b1bc0-5c2b-404f-8c1f-8de1e24f1f60,Gift_Card,rather not say,San Diego,CA,West Coast,35.67
+c9bac907-20b2-470a-ac38-8a01185ce20c,Credit,rather not say,Chicago,IL,Midwest,86.39
+5d590efe-c4ec-46af-8075-446c673c46ea,Gift_Card,female,"Washington, D.C.",DC,East Coast,63.65
+2d289c98-8505-4842-abeb-3f6dd48ccda2,Refund_Credit,female,Philadelphia,PA,East Coast,17.32
+811dc671-ed54-4e44-bd15-611b0604c449,Credit,rather not say,Charlotte,NC,South Coast,94.02
+e771d01c-6323-417e-aa0d-85f8c639e782,Refund_Credit,male,Chicago,IL,Midwest,40.26
+46a50b8d-986c-422c-b5de-40bea17d65ad,Gift_Card,female,Atlanta,GA,South Coast,90.86
+95d703a1-5612-4991-b0ec-07caf78980d3,Gift_Card,female,Chicago,IL,Midwest,96.95
+023f7c25-34db-4ea2-a2fd-84fe350af5d7,Debit,male,Phoenix,AZ,West Coast,58.8
+783d6ac2-2432-4e25-b625-9786bce23c7d,Cash,rather not say,Nashville,TN,South Coast,49.91
+44d32963-b707-4441-a03d-62f71e2259af,Credit,male,Boston,MA,East Coast,66.45
+f488f597-ea29-420b-96e3-62631a769829,Cash,rather not say,Orlando,FL,East Coast,55.89
+6bfd0b27-38e8-4760-af02-bf1ae7487fcf,Cash,female,Denver,CO,Midwest,98.49
+431ac417-d0b6-4b0b-9a42-dc449a22cdfb,Refund_Credit,male,Charlotte,NC,South Coast,17.24
+f6b975ba-b445-4e5e-8daa-d17f937a8bdb,Credit,male,Denver,CO,Midwest,51.75
+bff35723-d74e-459e-abd7-2230bdd2ad24,Gift_Card,female,Orlando,FL,East Coast,40.38
+cb40fdc6-9189-4df4-986e-9f4e91d04cf3,Cash,female,Tampa,FL,East Coast,13.91
+80716f51-3561-46a3-9e6d-7419269c2c82,Credit,rather not say,Raleigh,NC,South Coast,66.32
+218c41f2-b85a-43eb-9ae8-446a7edda9d4,Credit,male,Nashville,TN,South Coast,39.58
+6a5f56a7-bca3-4d0f-a897-0fde59504abe,Gift_Card,male,Tampa,FL,East Coast,46.48
+f838ccd4-97b6-46af-a7db-04f32675ef1f,Refund_Credit,female,Charlotte,NC,South Coast,77.91
+af2980b5-9fd1-418c-9417-0aa426ee56b0,Gift_Card,female,San Francisco,CA,West Coast,43.03
+f0a48b18-ac87-431b-8dbd-b9b362a127cf,Cash,male,Seattle,WA,West Coast,72.94
+af51d1cd-92f0-480f-99f9-e09d84a2bcee,Credit,rather not say,Tampa,FL,East Coast,16.57
+c4063999-7427-44c9-8456-7ecc890ad0cb,Cash,female,Philadelphia,PA,East Coast,85.91
+c7350b42-68dd-4268-976b-95d9b95daee1,Cash,rather not say,San Diego,CA,West Coast,7.8
+2d24c797-1cd9-49fa-b191-2ff849424383,Refund_Credit,male,Philadelphia,PA,East Coast,48.58
+37f4399e-feb9-47fb-9ed8-ae4689ac252b,Gift_Card,female,San Diego,CA,West Coast,26.78
+c84c306a-0610-4305-a570-c075ff290add,Gift_Card,male,Boston,MA,East Coast,80.03
+fdb05434-7666-4ea5-b69d-5a2ab74c4c69,Gift_Card,rather not say,Charlotte,NC,South Coast,79.65
+10fc1bc9-2adc-45b7-9ff5-1c93d075f92a,Debit,rather not say,Philadelphia,PA,East Coast,26.81
+cd433ebc-e350-4395-9101-57253f13dc63,Credit,rather not say,Denver,CO,Midwest,18.78
+8946206a-3e40-4a74-a584-5160f624650a,Gift_Card,male,Minneapolis,MN,Midwest,56.27
+c8b15ce6-59a8-4dcb-b1e2-6955c53de02e,Cash,rather not say,Indianapolis,IN,Midwest,35.44
+177108dd-f680-4c3a-aa1c-16154b678696,Cash,rather not say,Orlando,FL,East Coast,41.24
+028452ad-b1a4-4b24-a20c-32e91f61a670,Cash,male,Austin,TX,South Coast,20.29
+604727b8-6011-475a-9ca4-494ea4747178,Debit,rather not say,Boston,MA,East Coast,82.41
+18f39f77-270b-4e6a-9be5-960b372384c6,Debit,female,Minneapolis,MN,Midwest,6.86
+7a310e1a-e0a8-49de-be00-7085fe21036f,Cash,male,Houston,TX,South Coast,81.34
+f7421e19-af5b-41d6-a851-fa6bb699190b,Debit,female,Atlanta,GA,South Coast,51.23
+377e0c7c-ff52-464a-875d-da5a2963f835,Gift_Card,rather not say,Atlanta,GA,South Coast,65.07
+fc288d97-9e0d-4572-baf0-d4437ddbbb64,Credit,female,Phoenix,AZ,West Coast,74.88
+7f9f84a5-adf3-4734-8d1c-d9f2002b6788,Gift_Card,female,San Francisco,CA,West Coast,92.22
+bf4bf9fd-4a50-4dd9-8fae-8f2c15e5561c,Credit,rather not say,Orlando,FL,East Coast,63.7
+5b6fe577-8637-444f-a4c6-cf13e84efdae,Credit,female,Charlotte,NC,South Coast,42.41
+60a9d1f4-294d-440e-8a8d-ff3fdd38bd5a,Gift_Card,female,New York,NY,East Coast,3.19
+6d5ad084-a9f1-4af5-976b-ed8ea0d3e54a,Debit,female,Cleveland,OH,Midwest,89.26
+2df9b338-0416-4810-9f6d-682f9c221b96,Refund_Credit,male,Los Angeles,CA,West Coast,92.71
+377bc6fd-a9cd-402c-b8a6-4eeef164fbef,Credit,male,New York,NY,East Coast,52.0
+e0ad3423-8cca-4f4e-984e-deb3438ee701,Gift_Card,male,San Diego,CA,West Coast,4.74
+2aca7826-f8ca-45ba-b8ed-b71242a1079f,Refund_Credit,rather not say,Chicago,IL,Midwest,15.21
+1c68d710-90b5-4d90-823e-c37b031c920b,Cash,male,Salt Lake City,UT,West Coast,6.21
+2172e3d4-1842-402d-9d07-ed40135b9698,Debit,female,Phoenix,AZ,West Coast,56.78
+b158eab7-b134-421f-a0fb-36f0ac1c70ce,Refund_Credit,female,Dallas,TX,South Coast,98.0
+9def85a4-e6f7-4157-bc8a-346159c85472,Cash,female,Los Angeles,CA,West Coast,91.38
+70d11d40-9171-4ac8-8f55-a8477e45acef,Credit,female,Seattle,WA,West Coast,74.6
+d97be80f-a0bf-416a-a8d3-4cdc58e4fa54,Gift_Card,female,Phoenix,AZ,West Coast,14.83
+aaff8665-27f7-4ddd-87a6-e6978fbc2727,Cash,rather not say,Detroit,MI,Midwest,83.75
+c0390e6b-6322-41a9-8d2a-e382a23ebe9b,Cash,female,Cleveland,OH,Midwest,31.33
+d05f410d-0311-4717-90a1-6b918d921ff7,Cash,male,Cleveland,OH,Midwest,42.54
+b23e3cef-921d-465b-a1a6-96860ffc431b,Credit,female,Minneapolis,MN,Midwest,48.7
+37d0f8ba-8ce8-472e-976a-aa17dabeaf2c,Refund_Credit,female,Charlotte,NC,South Coast,62.68
+11d7de4b-db53-4cd3-875b-b870fc7fb7e6,Debit,rather not say,Dallas,TX,South Coast,27.92
+ee64edde-a50d-45e3-a92b-9c51794f7a9f,Credit,female,Los Angeles,CA,West Coast,46.3
+71989e05-951b-4613-b2bf-32c08c2c7764,Refund_Credit,male,Orlando,FL,East Coast,91.66
+131d0293-287b-40a4-be73-1953fbaaa776,Refund_Credit,rather not say,Los Angeles,CA,West Coast,18.59
+b1edcaaa-7321-496a-b71b-bde1b490542f,Credit,rather not say,San Diego,CA,West Coast,51.04
+79f4de9c-dfa7-4866-bc26-1c9319fc2172,Credit,male,Portland,OR,West Coast,65.74
+35666998-c667-4198-93f9-18adb6a4d5f5,Debit,male,Salt Lake City,UT,West Coast,44.4
+defe70d6-13cc-4ff2-94c1-4b116838defc,Gift_Card,female,Minneapolis,MN,Midwest,75.65
+cd15c4d7-53ae-4269-ad50-7d2692bbc15b,Gift_Card,rather not say,Dallas,TX,South Coast,56.32
+2a181d04-79cd-4098-b1e4-6641ea28adba,Credit,male,Salt Lake City,UT,West Coast,15.02
+43f8e5c4-aa96-47e8-af3c-a4e4edb02b0d,Cash,female,Phoenix,AZ,West Coast,34.34
+8f878907-d55e-4e66-a121-31e11fb15bcc,Debit,female,Phoenix,AZ,West Coast,97.65
+643bb7dc-4b9f-4740-853b-44645e337964,Debit,rather not say,Nashville,TN,South Coast,5.73
+7f46caeb-fbd6-42fa-8344-c066d75ee50b,Credit,male,Houston,TX,South Coast,28.06
+9c7c2d6f-1295-409a-b5cb-669aa8737c2b,Cash,male,Austin,TX,South Coast,12.41
+320d0880-a4eb-4c9c-8104-0435a0f422ef,Credit,female,Salt Lake City,UT,West Coast,87.25
+86f98ac5-7176-4c0f-9a81-7ea6123e4a9b,Refund_Credit,female,Charlotte,NC,South Coast,15.15
+cfa984dc-751a-4911-b9d9-c17f0d0ce667,Gift_Card,female,New York,NY,East Coast,56.67
+279dfc75-0b97-4735-8c07-d14eb0d55295,Gift_Card,female,Dallas,TX,South Coast,10.26
+b805341a-5d27-4565-8ec3-b855f4cbc8c5,Gift_Card,female,Boston,MA,East Coast,47.93
+5c892556-5a15-4fad-93c5-04c1a6f65db2,Credit,rather not say,Phoenix,AZ,West Coast,62.83
+89131856-46b0-4427-a84b-eb4133875df4,Cash,male,Jacksonville,FL,East Coast,44.98
+de9e14ce-1dc5-4f63-b337-54853e0a8e9f,Cash,male,Salt Lake City,UT,West Coast,61.91
+61c6e434-fdc6-427c-a311-09f227e2bd51,Credit,female,Cleveland,OH,Midwest,46.43
+6e90cd1f-9df1-432e-beee-9936bcf1e4f4,Debit,female,Austin,TX,South Coast,58.12
+cd47f272-6087-4856-9931-814f4fce5a06,Refund_Credit,rather not say,Charlotte,NC,South Coast,64.74
+b374af3d-0cc4-467c-9de5-0e8341214e13,Debit,male,Philadelphia,PA,East Coast,13.64
+5c24df0c-055d-41a1-adc3-ba34ff267486,Cash,rather not say,Miami,FL,East Coast,90.25
+26a9d22b-839b-4639-90ac-b8b5bcd7f07b,Refund_Credit,female,Boston,MA,East Coast,26.81
+1d734558-91d9-4802-8de0-9bbe4be97b3f,Cash,male,Jacksonville,FL,East Coast,71.06
+f70e5881-5f1f-4ec6-9d7e-b77d96c2cc86,Cash,male,"Washington, D.C.",DC,East Coast,56.99
+bda25b83-4712-4041-8b27-b960978c0694,Gift_Card,rather not say,Houston,TX,South Coast,24.56
+6c5684d7-5d0a-46b0-a949-dece289e6620,Credit,male,Phoenix,AZ,West Coast,11.29
+8f664408-140c-44fd-9776-709847f53152,Cash,rather not say,Chicago,IL,Midwest,65.33
+9b8e1ea6-bac4-402e-890a-b9224589548c,Gift_Card,female,St. Louis,MO,Midwest,4.73
+25fe35c7-5ed8-4bea-adf7-ec88ffffa63b,Refund_Credit,male,Charlotte,NC,South Coast,73.04
+87aec8d0-f98f-4779-85e7-8f66b5592795,Credit,female,Portland,OR,West Coast,15.85
+f2d58f43-789d-439c-88e0-5f7313bcb77a,Refund_Credit,male,San Francisco,CA,West Coast,18.76
+b80b1da8-7caf-4643-8f3e-6b098c20ff10,Cash,rather not say,Phoenix,AZ,West Coast,70.5
+2d8e2a6e-62d1-4085-b1dc-cc3f3fcc2204,Gift_Card,male,San Diego,CA,West Coast,46.79
+646f946e-8f25-49f7-8ce1-c80a2ac79f16,Credit,rather not say,Raleigh,NC,South Coast,75.42
+2479f9cb-1e94-449b-baaa-44a02e868d68,Cash,female,Salt Lake City,UT,West Coast,48.24
+c5851161-e1ef-4a67-9bfa-8bd940183b5e,Credit,rather not say,Seattle,WA,West Coast,94.56
+eb160d06-70a9-4d98-9525-f993aae7381a,Cash,female,Philadelphia,PA,East Coast,11.28
+5f56a20c-bce9-424a-b86c-cefa126a1598,Cash,female,San Francisco,CA,West Coast,15.26
+7bf4e5fb-9b10-4e51-bb9e-6367909f3612,Cash,male,Atlanta,GA,South Coast,92.35
+0e5d1e0d-0e46-47d7-a56e-8fcd6a0919d7,Credit,female,Detroit,MI,Midwest,16.48
+a33f81fc-8889-41a7-8a2c-fef41dc09342,Credit,female,Indianapolis,IN,Midwest,65.05
+87582c6b-4fde-4e31-adf5-c2fb421f9f0f,Cash,male,Charlotte,NC,South Coast,92.09
+b353b272-a7cb-43ac-889d-b1f19aff1d5c,Credit,male,Philadelphia,PA,East Coast,4.69
+078b1d5b-7c2a-4a3c-b615-ef5118c9a09b,Credit,rather not say,Minneapolis,MN,Midwest,24.72
+22f497c0-2dec-43a4-8177-7e3f4d5fef10,Refund_Credit,rather not say,Tampa,FL,East Coast,35.55
+77904453-9143-4521-a50a-7cbb2e6f293c,Cash,male,Orlando,FL,East Coast,92.31
+6415b8e8-a0ee-45d0-b7f1-c5f148b57743,Refund_Credit,female,San Francisco,CA,West Coast,60.63
+4feb1c0f-4aeb-46b7-ab37-8704f58a6847,Credit,rather not say,Chicago,IL,Midwest,73.54
+08e85370-e0ae-4154-a2ca-20dc743b6c60,Gift_Card,male,Nashville,TN,South Coast,80.63
+f579ab4e-f8fc-491a-b2ae-2f4052c8b102,Cash,female,Portland,OR,West Coast,87.95
+c329cde2-424c-4b02-af1a-18e1fb3a4e2c,Debit,male,Miami,FL,East Coast,19.3
+9d1918fd-24e5-4573-8485-91d4df50cf37,Refund_Credit,rather not say,San Diego,CA,West Coast,20.5
+7032d3bd-69c5-4a58-8a27-f658de795eeb,Credit,male,Minneapolis,MN,Midwest,95.4
+82c6fdb5-0fee-4423-9fda-a9e01ec2c0f7,Refund_Credit,male,Philadelphia,PA,East Coast,24.0
+d0383e19-2bd3-4818-b66b-3e880b50f91d,Gift_Card,male,Portland,OR,West Coast,9.23
+85918c9f-a485-4c03-bc34-d8204beffb64,Refund_Credit,female,Indianapolis,IN,Midwest,48.05
+4f021d15-4f85-44a1-9f32-6b6007eb7cc6,Debit,male,"Washington, D.C.",DC,East Coast,81.75
+b0d3c383-08de-4845-8a28-ef9e3fe7a58d,Debit,rather not say,Austin,TX,South Coast,39.5
+fb43fe0e-e8e1-4f21-a9e3-b7866ac56b0a,Debit,female,Cleveland,OH,Midwest,69.62
+cfc5cac2-691a-47a1-b235-1d8beaa8e3a1,Gift_Card,male,Tampa,FL,East Coast,81.38
+ada9b0b4-a38d-4906-a4a2-dc738accecb3,Refund_Credit,female,Orlando,FL,East Coast,99.95
+184b5732-1382-4690-9530-a38050821575,Cash,female,Dallas,TX,South Coast,71.18
+120ce35b-e15b-4ad7-a333-aa8df0f45961,Cash,male,Portland,OR,West Coast,30.66
+37a36933-6e13-42fe-bd41-994b480b057b,Gift_Card,female,New York,NY,East Coast,8.09
+10641960-6528-4ecf-b9de-b35c77a125fe,Refund_Credit,male,Jacksonville,FL,East Coast,28.71
+5de71ccf-a581-4490-85f8-a695428a3c25,Gift_Card,female,Boston,MA,East Coast,34.48
+ec2e20c6-18e9-4016-89bd-fd3b31c6bb9f,Credit,female,Phoenix,AZ,West Coast,21.37
+b39f9bff-d5d7-491d-8c7a-0275004e0745,Refund_Credit,female,Phoenix,AZ,West Coast,60.25
+75a93f4f-5caf-4db2-bd55-0800a097e9c9,Gift_Card,rather not say,Cleveland,OH,Midwest,48.68
+4c2e2721-ea37-4632-860a-235c6e055b70,Credit,male,Austin,TX,South Coast,35.94
+94e60e9f-cb5b-4341-b074-7f33664fb532,Debit,female,Houston,TX,South Coast,22.95
+286c5184-66da-43e5-b613-694e7c5b5593,Credit,female,Dallas,TX,South Coast,64.77
+a40aa346-0e55-48c6-9e6a-6a8521909283,Cash,female,Boston,MA,East Coast,15.7
+d10d168e-cf12-4aa2-9c21-e9d640531724,Gift_Card,male,New York,NY,East Coast,82.6
+4b088560-34f3-45f4-8f3d-003b0ed071e9,Gift_Card,male,Nashville,TN,South Coast,80.84
+fb293d1e-bb3b-4087-823f-f7563339e236,Cash,female,"Washington, D.C.",DC,East Coast,78.97
+7e617554-7952-48bc-b19c-2dcaa1d1efc1,Credit,male,Houston,TX,South Coast,7.93
+e817a8ff-cb99-40f4-8ccf-c54d296ff599,Credit,female,Boston,MA,East Coast,2.7
+5f1c6640-98d4-47dd-8110-2f3ccfdf938b,Debit,rather not say,Houston,TX,South Coast,41.92
+bebb909a-8589-4717-85bf-c71ff1a69404,Debit,female,San Francisco,CA,West Coast,20.09
+49fe4d44-1293-49c0-85dc-6dca63e33a10,Gift_Card,female,Chicago,IL,Midwest,58.16
+443ad7ee-e0e8-4d47-82e3-e4cd94a4f206,Refund_Credit,female,Philadelphia,PA,East Coast,46.31
+f4e82cf8-1044-4fc2-b1cc-d3e36583bfe7,Refund_Credit,rather not say,Tampa,FL,East Coast,64.35
+3afff5ed-0f0c-4321-a122-3dde4a0ab1b1,Refund_Credit,male,Denver,CO,Midwest,43.66
+43b29ff7-299b-427c-a7c7-93db8d78a5ee,Credit,female,Charlotte,NC,South Coast,16.98
+6acf80a5-b178-4e1d-a7c1-a496c4191bab,Refund_Credit,rather not say,San Diego,CA,West Coast,91.15
+67ad3697-6f6b-43c9-9f7b-933199c43967,Refund_Credit,male,Houston,TX,South Coast,59.02
+f773688a-661c-436e-a7f2-adb71fde2e18,Refund_Credit,female,Orlando,FL,East Coast,92.64
+05f7500d-3605-4e12-a495-50999ba0c4d8,Cash,female,Austin,TX,South Coast,2.95
+a0d9d83d-ed85-46c4-bd32-6af9ebd1cc6e,Gift_Card,male,Detroit,MI,Midwest,2.68
+454f1e74-b495-419e-b36e-ec9f19346b67,Refund_Credit,rather not say,Salt Lake City,UT,West Coast,68.97
+9840640d-81d9-4e66-954a-a6ae4fa8ac50,Credit,rather not say,Portland,OR,West Coast,21.15
+6a969d4a-7267-47d8-bec9-cad16e2d5dfd,Gift_Card,female,Portland,OR,West Coast,26.71
+da738ae0-c77e-4e4c-a2da-b4b9797fcf08,Gift_Card,female,Chicago,IL,Midwest,54.27
+1b51cc05-568a-4b86-85cd-90720a570e59,Gift_Card,rather not say,Indianapolis,IN,Midwest,3.82
+387dbaa0-91bf-4b07-b579-540242159288,Gift_Card,male,Charlotte,NC,South Coast,39.66
+b2328db7-7423-4777-b46f-cbbb7522f394,Credit,rather not say,Orlando,FL,East Coast,29.72
+d8826efd-0378-430c-8f57-898617700786,Debit,rather not say,Boston,MA,East Coast,48.94
+daba429a-b2c4-4be5-af8b-43695b9b1b42,Gift_Card,male,Boston,MA,East Coast,75.41
+515a08c6-7d6f-4ccc-af54-f625ecfa3b15,Debit,female,San Francisco,CA,West Coast,63.86
+775c5d51-95c8-4b9a-befd-99038052f8ae,Gift_Card,female,Austin,TX,South Coast,15.55
+3ce3884c-e7d3-47fb-9a08-4d9669ae0556,Cash,male,Dallas,TX,South Coast,2.12
+c37958b5-1c7b-4674-bc33-7f62a705c3b7,Cash,male,Tampa,FL,East Coast,48.71
+7c2b7f9a-57dd-42d0-a962-08cb394b5cad,Refund_Credit,rather not say,Nashville,TN,South Coast,71.53
+44faae45-c54c-4e96-983b-1a25e8de633a,Credit,male,Miami,FL,East Coast,69.72
+40d44e98-6c32-403d-922d-e2b0bf493296,Cash,rather not say,Boston,MA,East Coast,6.42
+1ba1384c-70c5-4388-b273-a9be0a4ec393,Cash,male,Houston,TX,South Coast,29.45
+40e69de2-81ce-4674-80dd-35b9277981d8,Gift_Card,female,St. Louis,MO,Midwest,59.15
+9840855a-f5bd-43fb-8b86-15f3efe44a1e,Cash,female,Salt Lake City,UT,West Coast,16.81
+c9a1e9b7-ee22-42f0-94ff-692e369fc506,Cash,male,Atlanta,GA,South Coast,90.03
+182ea52b-4076-46a1-a299-94e06a71988b,Gift_Card,rather not say,Detroit,MI,Midwest,67.23
+1e84d873-c923-478b-8298-74b2e848a9d3,Gift_Card,female,Atlanta,GA,South Coast,33.16
+966585dd-4045-4259-b37e-dd87a3fdecb3,Debit,female,"Washington, D.C.",DC,East Coast,20.42
+97f86e10-9e4b-4969-be76-1d47b223951e,Debit,male,Miami,FL,East Coast,49.66
+391d3d4b-f066-48aa-97f7-1e5f23349fa6,Debit,male,Raleigh,NC,South Coast,5.02
+e808f7d4-06ab-4fc4-ab30-c116fae77edc,Credit,rather not say,New York,NY,East Coast,58.63
+fc2c3b40-231d-4d1e-a83c-b73fbb39a5d9,Debit,male,Nashville,TN,South Coast,55.37
+e1c035b5-376b-4539-8ff9-73f512c98d56,Debit,female,Charlotte,NC,South Coast,87.37
+50a5a95e-f1e4-4478-a405-0868aaf5d3a6,Refund_Credit,male,Boston,MA,East Coast,15.16
+e146dc4f-05a2-4e28-8f7d-3209d54d29eb,Debit,rather not say,New York,NY,East Coast,31.89
+93935821-477b-492c-9c62-057acddbd244,Refund_Credit,rather not say,"Washington, D.C.",DC,East Coast,65.4
+8b2db6b3-d4c7-4ea9-92d2-8bf2e1b74d1e,Gift_Card,female,Minneapolis,MN,Midwest,16.2
+729f8ec6-5508-44e9-86da-debe8b09e65d,Credit,rather not say,Los Angeles,CA,West Coast,17.91
+c0dcea53-2a23-49f6-8a46-385bf5b71479,Refund_Credit,male,St. Louis,MO,Midwest,17.18
+8d10d477-9870-481a-9566-1ff0a3a48a50,Gift_Card,rather not say,Seattle,WA,West Coast,77.37
+280e478e-f5fb-4ad3-bb6c-5969d9672037,Debit,rather not say,St. Louis,MO,Midwest,80.75
+2116352c-339b-4ef8-bcda-bd489b0faba5,Refund_Credit,female,Denver,CO,Midwest,70.09
+fb6cc619-11a2-463c-9ea6-cf30f2516842,Cash,female,Minneapolis,MN,Midwest,12.21
+b7b321ce-f045-4ded-949a-78e06dc95b52,Cash,rather not say,Austin,TX,South Coast,12.6
+2f9cb3ca-37ea-4be0-99cf-475cd6562d33,Debit,male,Philadelphia,PA,East Coast,17.19
+87c00ec1-847d-4aec-b310-40c76e4787e4,Debit,female,Jacksonville,FL,East Coast,69.54
+8d2084ec-4ae1-4ad4-ac2c-9097afae370c,Debit,male,Denver,CO,Midwest,64.12
+fcc416a3-16fe-4f4c-a256-4671220eb69c,Gift_Card,male,Phoenix,AZ,West Coast,99.95
+e51678e1-b045-4b42-87dc-248bbcbe8970,Cash,rather not say,Seattle,WA,West Coast,83.3
+1d4d64d1-985e-4293-97bb-6328dda00dab,Cash,female,Salt Lake City,UT,West Coast,31.92
+6559851a-664c-49d4-9731-2a56295b22ec,Cash,female,Houston,TX,South Coast,33.86
+c7070370-ea58-4a4b-a44d-0c7e12e7ad25,Gift_Card,female,Raleigh,NC,South Coast,93.82
+8e59e3ca-5ed3-4d65-94ac-1c353105df44,Refund_Credit,female,Orlando,FL,East Coast,20.87
+1488f357-ad04-46d6-bff2-579c4f2df72b,Credit,rather not say,Salt Lake City,UT,West Coast,65.81
+601f4200-0cf5-4286-b337-7c87768fd1f8,Refund_Credit,female,Jacksonville,FL,East Coast,96.61
+21404723-f8c6-4ea4-8798-e648066c12d9,Credit,rather not say,Indianapolis,IN,Midwest,55.76
+ddaff603-78d6-4704-bbfe-4caf1408ce30,Gift_Card,female,Chicago,IL,Midwest,11.4
+17e483fd-8d69-4ac5-a978-bc94c8fdb819,Cash,male,Boston,MA,East Coast,62.52
+0f6c7fd7-32ec-4660-b566-23f400118da6,Credit,female,Miami,FL,East Coast,56.15
+387d26a7-fef8-4dcc-ab04-2ede5e972d91,Cash,rather not say,Detroit,MI,Midwest,26.69
+5e4c5b3b-94be-47bf-b734-cde4dfa55452,Gift_Card,male,Jacksonville,FL,East Coast,63.11
+425607ad-fd07-47f5-89a4-0cd30eb8f54a,Gift_Card,rather not say,Charlotte,NC,South Coast,82.36
+8fc1ba02-4ffc-4609-9152-b2b77087e56e,Credit,male,Indianapolis,IN,Midwest,58.28
+c6dfd6c5-f02b-4d49-ac82-e09b97f4b507,Cash,rather not say,Phoenix,AZ,West Coast,49.76
+8109f86c-e849-4dcd-901c-ea364ccc6256,Credit,female,Phoenix,AZ,West Coast,32.78
+b7d98442-9a64-4bf1-b2f6-80c5a0124b2f,Credit,rather not say,Phoenix,AZ,West Coast,33.35
+a32be3ab-f4c8-4edf-9570-a0245f1a562f,Credit,female,Phoenix,AZ,West Coast,42.58
+8acac9e0-fb01-409c-82b4-0fe209eb7a65,Credit,female,Indianapolis,IN,Midwest,1.77
+0b5d8d10-518f-4b6d-bf52-e65cf4d35fbe,Credit,rather not say,Atlanta,GA,South Coast,44.94
+02b294df-9766-491a-88e3-fa75ec84b85b,Gift_Card,female,San Francisco,CA,West Coast,53.64
+97543804-fe26-4ae6-89e3-86504fe84c26,Refund_Credit,female,Raleigh,NC,South Coast,3.9
+b84ace0e-f6c2-4adf-a8f1-5e02f11d10bc,Refund_Credit,rather not say,Detroit,MI,Midwest,14.14
+561b809f-11ee-49c9-a426-d67c89d1f015,Credit,female,Jacksonville,FL,East Coast,29.6
+2c546c98-f5ae-4546-bda7-b73cc2c8174d,Debit,rather not say,Phoenix,AZ,West Coast,62.85
+e579f8b7-2653-4572-b359-b43a7f703655,Gift_Card,rather not say,San Francisco,CA,West Coast,80.45
+6f36a136-b040-469c-86ae-8d8f14d89c2b,Gift_Card,female,Orlando,FL,East Coast,2.68
+fbd60246-0e4d-4bd6-9d50-bebabf25de8d,Refund_Credit,male,Seattle,WA,West Coast,9.64
+654ce223-091a-4cd5-a1ee-ba84e972e826,Refund_Credit,male,Atlanta,GA,South Coast,46.25
+49b6427e-8661-4086-a185-962e27eeafdc,Gift_Card,female,San Francisco,CA,West Coast,11.19
+ab9492c9-47fe-4bab-84b8-2e7f64ba1d9c,Gift_Card,rather not say,Orlando,FL,East Coast,12.05
+3c8c3b90-079d-428b-87c6-ce322be105cc,Credit,female,Seattle,WA,West Coast,80.8
+dd22b2d3-1580-43aa-a47b-6961c5b5e87f,Gift_Card,female,Minneapolis,MN,Midwest,86.89
+9d49e55d-32dd-4111-8e6d-2ec26a0e9f4c,Cash,male,Indianapolis,IN,Midwest,98.5
+76292bc4-1d20-45ce-b751-937212a9e1ac,Credit,female,San Francisco,CA,West Coast,86.17
+7b481111-5451-4365-876d-55ecbe5215ee,Refund_Credit,male,Cleveland,OH,Midwest,38.39
+600ad130-4cc7-4537-ac6d-f67f17205db6,Debit,rather not say,Raleigh,NC,South Coast,29.45
+61497c43-2cdd-4d14-8e27-076888bcd906,Refund_Credit,rather not say,Raleigh,NC,South Coast,26.55
+a1833f53-33ba-41d9-ade1-4ec609a1e2d1,Cash,male,Seattle,WA,West Coast,55.85
+e5725b75-9363-4368-a8a6-e26eee51f602,Debit,female,Austin,TX,South Coast,50.12
+e199807c-6fdf-4649-a645-ce22b4be9ebd,Credit,rather not say,Denver,CO,Midwest,13.12
+4148d35d-a54b-45bb-bd55-e15a14c55bab,Credit,male,Orlando,FL,East Coast,43.93
+c574ac41-2ade-458f-81d9-6386affa13a5,Gift_Card,rather not say,New York,NY,East Coast,77.12
+c70081f4-78b2-41a6-a42b-28b85eb95f25,Cash,rather not say,Orlando,FL,East Coast,18.65
+65f4b645-f8e7-41fa-b515-8f851c447220,Debit,female,Austin,TX,South Coast,34.39
+a0ae6ecc-991d-4e79-9112-b9fdb2dd3ea8,Credit,female,New York,NY,East Coast,79.0
+9976b936-088b-4b72-83b9-2e3c38d6edd1,Credit,rather not say,Denver,CO,Midwest,43.72
+5155f76f-68a6-44d8-b40e-2be7506ffeeb,Debit,rather not say,"Washington, D.C.",DC,East Coast,15.87
+90730955-fc42-4c7d-9f99-155430677648,Debit,rather not say,Minneapolis,MN,Midwest,93.03
+1ec9e5d2-f2af-49bd-b664-b234d2800ab8,Refund_Credit,female,Detroit,MI,Midwest,59.38
+ae4ef5da-9e0e-4cd9-a296-d2d28758572d,Cash,rather not say,Orlando,FL,East Coast,34.69
+30d53833-456a-41b3-ac90-bd4e33f592d1,Cash,rather not say,Boston,MA,East Coast,45.28
+c02b8419-39e6-4cab-b8fe-24f50e5483ae,Refund_Credit,rather not say,Charlotte,NC,South Coast,95.69
+89fe017f-76e6-4ca2-8f37-72f8dd9cf577,Refund_Credit,female,Minneapolis,MN,Midwest,85.71
+0939f7f7-ae89-466a-b30c-452586dbe6c5,Cash,female,Philadelphia,PA,East Coast,32.87
+34af7361-f75f-4990-bdb6-4f9ac1bdf752,Debit,rather not say,"Washington, D.C.",DC,East Coast,68.84
+e1236946-375d-4d53-b8b0-b612e0b0970f,Gift_Card,male,Tampa,FL,East Coast,39.9
+3f1bde71-c401-4c57-b747-0c3dba9aff1b,Gift_Card,rather not say,Salt Lake City,UT,West Coast,24.16
+4ac60a8a-81f1-48bc-91f1-f2d4f486a610,Cash,rather not say,Detroit,MI,Midwest,70.25
+7d3ed841-0d59-40e0-a7c0-6e74a4d1a117,Debit,rather not say,Atlanta,GA,South Coast,18.34
+c02613c2-0fcd-4780-92db-6c7c81fd2b0a,Cash,rather not say,Chicago,IL,Midwest,84.37
+20240d65-d56c-4a5e-85f4-54b6b90eda46,Credit,rather not say,San Francisco,CA,West Coast,34.54
+8b93bca8-55b9-4798-bd77-65c3c853ee42,Debit,female,Tampa,FL,East Coast,4.58
+f15195ff-5647-424e-88a6-2227b1a50a4d,Cash,male,San Diego,CA,West Coast,62.74
+1659235a-b697-4ea1-bab1-16a0046eadd3,Debit,rather not say,San Francisco,CA,West Coast,37.25
+5e4b4553-d08c-4546-ba93-80da280ee847,Gift_Card,male,Miami,FL,East Coast,31.95
+09759748-56ea-4b29-9592-d510ca923e4a,Credit,rather not say,Salt Lake City,UT,West Coast,76.27
+bbe08f11-5993-484e-bfa8-9e42b5d728e9,Credit,female,San Francisco,CA,West Coast,81.38
+b998a7a6-8680-43a7-b049-a4c48d7e191f,Credit,rather not say,Houston,TX,South Coast,93.16
+3677c90d-5a04-4d9f-aae4-e311daa24d41,Credit,rather not say,Raleigh,NC,South Coast,80.71
+6154e0b3-5a10-4738-888d-b201c7278f55,Credit,female,San Diego,CA,West Coast,93.14
+37e4be0c-d577-4ca8-b239-cabab58e27cd,Credit,female,Portland,OR,West Coast,10.64
+382a5d7c-e8f9-4f8f-aad9-ff7e5de0dc57,Refund_Credit,male,San Diego,CA,West Coast,69.62
+cbb1fcbb-9af5-433d-8bd1-ce55ec73afef,Cash,female,Raleigh,NC,South Coast,49.92
+e5230d7b-1f0f-48d9-b14b-df2017107846,Refund_Credit,rather not say,Nashville,TN,South Coast,10.93
+a3637d22-afb6-4fed-a558-eb7502935e1e,Credit,female,Detroit,MI,Midwest,41.71
+3fc9c370-95a3-4aa2-8f69-9d9f25c6d21a,Debit,male,San Diego,CA,West Coast,88.53
+42e9db34-aca8-4a70-894b-7246745e1f05,Credit,female,Boston,MA,East Coast,61.46
+ac7a6f35-2c6e-4843-8ff1-7455c69f001a,Refund_Credit,female,Tampa,FL,East Coast,94.65
+928e92dc-8630-493d-9bf6-3555c64398a8,Gift_Card,rather not say,Los Angeles,CA,West Coast,93.84
+43ee639b-cc75-4892-8a38-17d608bc35e2,Refund_Credit,rather not say,Raleigh,NC,South Coast,20.99
+5a1aaf70-f074-497c-a50c-e819b67587ac,Refund_Credit,female,Nashville,TN,South Coast,67.48
+67fc3d7a-2066-46ed-aed8-e579c361155b,Gift_Card,rather not say,Atlanta,GA,South Coast,92.44
+78cba7e3-6e30-4adc-8b43-489aac319d64,Credit,male,Dallas,TX,South Coast,28.81
+9100f3d4-fb2e-4f2b-80ce-1e9a795581e1,Cash,rather not say,Detroit,MI,Midwest,42.63
+a4b535cb-6027-46a6-8f3e-34aeae1a0a3d,Refund_Credit,female,Indianapolis,IN,Midwest,69.98
+51737b87-3d8c-457b-89bd-48067c3ccef0,Gift_Card,male,San Diego,CA,West Coast,64.19
+d20a5d64-cc3c-4de9-b43e-97f10f7af50b,Gift_Card,male,Indianapolis,IN,Midwest,77.52
+58ede9a2-cbb8-4c2d-a071-238b84fdbb1c,Credit,female,Raleigh,NC,South Coast,45.38
+c6e38882-4def-4aba-9daa-d7f9d45bd573,Gift_Card,male,Houston,TX,South Coast,61.64
+9bfdb8e1-1101-4808-afb2-6ed545d88a2f,Refund_Credit,rather not say,Jacksonville,FL,East Coast,55.73
+f80226ae-2db1-4f5c-99ad-29b6acf13cee,Credit,rather not say,Miami,FL,East Coast,86.03
+cf1c5edf-19eb-4c80-8667-c6ae01100a40,Cash,rather not say,New York,NY,East Coast,83.15
+8cc93b87-fc0b-46de-8eab-6f1874b4f5b2,Refund_Credit,rather not say,Austin,TX,South Coast,95.2
+4ee46c87-8bc1-4251-b0dd-26785d4571ee,Debit,male,Charlotte,NC,South Coast,93.12
+e0a3a15a-9827-45c9-9d02-c78d2fd6f6fa,Debit,rather not say,Jacksonville,FL,East Coast,64.86
+04945ee9-efc8-4e17-8092-57dcc9856763,Refund_Credit,female,Indianapolis,IN,Midwest,57.29
+d2771372-ca4b-44b3-8b77-b686141d2a94,Debit,male,Indianapolis,IN,Midwest,56.29
+6759c2d2-81ce-40fb-8cfe-86c142493f8b,Refund_Credit,female,Austin,TX,South Coast,49.92
+25409b4b-b9ea-4b08-b226-88355d7a505a,Refund_Credit,female,San Francisco,CA,West Coast,44.11
+9107cd66-d8b1-4d5c-b9ec-13f79d5a7877,Cash,female,Jacksonville,FL,East Coast,37.27
+b35d1a8b-a409-4536-b869-86bc1fd086bb,Cash,male,Salt Lake City,UT,West Coast,86.78
+7f38b764-5f8f-4222-91dc-834ea1025d2f,Debit,rather not say,Miami,FL,East Coast,27.08
+bd9bc72a-e89d-4555-8b6d-d081de2c8cce,Debit,female,Boston,MA,East Coast,52.56
+be9e79f4-da81-4056-89c4-e185c6457e0b,Debit,male,St. Louis,MO,Midwest,29.33
+bff632d6-78f9-4908-a853-547f7b000f3d,Refund_Credit,male,Nashville,TN,South Coast,32.81
+050f10a0-5226-466d-9d09-7068c9a321d6,Debit,male,Austin,TX,South Coast,59.02
+884100de-d058-4d03-978b-3b28a6191b34,Credit,male,Austin,TX,South Coast,70.24
+23ab7a01-552e-4934-8699-c24d24e1a079,Gift_Card,female,Indianapolis,IN,Midwest,28.39
+cd5415f8-ff6e-465c-9180-0616de1d1f44,Debit,rather not say,Chicago,IL,Midwest,49.83
+00a7b8c1-25e9-4431-a9d2-58124e3b445a,Debit,female,San Diego,CA,West Coast,27.8
+7827fcac-174b-4467-b0dd-29a87834d155,Refund_Credit,female,St. Louis,MO,Midwest,84.19
+003b84bf-ce1e-4420-882d-85f880d2faba,Credit,rather not say,Dallas,TX,South Coast,8.3
+5a8f7c5d-d5af-423e-a937-cea59c6c59ab,Refund_Credit,rather not say,Jacksonville,FL,East Coast,27.24
+778ba3a8-21c2-412a-a9c1-1789a651e8a0,Credit,rather not say,Houston,TX,South Coast,67.43
+0c603937-0d23-4c95-bc6d-0313dd34296b,Credit,rather not say,St. Louis,MO,Midwest,53.02
+51a5491c-1542-4a60-a9f3-f0121880730d,Cash,rather not say,Phoenix,AZ,West Coast,62.74
+a06770db-ad8e-4bcc-81da-a9489c7545e3,Gift_Card,rather not say,Tampa,FL,East Coast,8.56
+916143f6-0150-44fb-9888-5d0ba0d1825b,Credit,female,Charlotte,NC,South Coast,4.93
+0422336b-943e-4f26-9217-886a8e23366f,Debit,male,Tampa,FL,East Coast,21.66
+4d625a72-1645-43db-8eb2-8c9bce4c0a34,Cash,female,Tampa,FL,East Coast,66.52
+a2bb07da-957a-4e8b-81fb-6fb26bb89a60,Cash,rather not say,Houston,TX,South Coast,46.55
+c46e0d26-c49a-4353-ad7c-7155b56ab884,Gift_Card,female,Indianapolis,IN,Midwest,75.83
+1523160b-f151-4669-92f2-8ff695b2fe07,Gift_Card,male,Chicago,IL,Midwest,35.09
+d72b2c61-8474-4b51-91ef-78d6849f6e2e,Credit,rather not say,Seattle,WA,West Coast,51.61
+aa1844e5-5d61-4cf9-a299-e85fd05c8f72,Debit,female,Detroit,MI,Midwest,42.33
+160bf10d-a950-45ac-8dea-27d0457d493b,Cash,female,Charlotte,NC,South Coast,27.6
+35b9ed3d-bdb3-47b9-b7e2-4be02fe4929d,Debit,male,San Francisco,CA,West Coast,59.88
+88169d98-1246-4648-bcfc-6ded7b23a1fb,Credit,male,Jacksonville,FL,East Coast,95.6
+8655dd60-6ae7-4b5d-a5d8-5fbbe824a923,Debit,female,Minneapolis,MN,Midwest,24.61
+3d96c327-74d0-400c-886b-75b30e1eb0d2,Cash,female,San Diego,CA,West Coast,71.87
+d09c42e5-a9ea-4473-9edf-2c6cb3d598a0,Gift_Card,rather not say,Los Angeles,CA,West Coast,86.42
+512b443b-7781-4b5a-b769-5f556a2b5bf8,Gift_Card,female,Tampa,FL,East Coast,18.0
+de6d12bf-4d98-43cd-9426-f29e3fe2bd2c,Refund_Credit,rather not say,Detroit,MI,Midwest,46.73
+9a6610c1-bb55-485f-bacb-2731651d7494,Gift_Card,female,New York,NY,East Coast,41.06
+f4b41a6e-b3f0-4b1e-ac07-6318f851cdcc,Debit,rather not say,San Diego,CA,West Coast,60.23
+3587d96d-9dbd-4f49-a7dc-493710f3bd79,Debit,male,Miami,FL,East Coast,65.65
+f83775e2-d49c-4cbc-8af6-c42aa6f72c92,Refund_Credit,male,Indianapolis,IN,Midwest,67.55
+8edb5e92-99b6-4776-bd79-c52b68e3c95f,Debit,rather not say,Philadelphia,PA,East Coast,12.11
+e288bfe0-3255-489e-a9d5-e84de67f2184,Refund_Credit,male,Salt Lake City,UT,West Coast,36.58
+7ff6b666-fb0b-4fdf-b59a-4a1308256e8a,Gift_Card,male,Atlanta,GA,South Coast,68.54
+2e8d17e2-f2ca-434c-884e-a6b6655a1a34,Debit,male,Minneapolis,MN,Midwest,38.85
+d1c82d87-576c-44ae-979e-3d098d689208,Cash,female,Indianapolis,IN,Midwest,56.55
+c95ea568-f453-485d-bb8c-b52f118ad571,Refund_Credit,female,Philadelphia,PA,East Coast,51.05
+2e4c698e-aff4-42e3-bdc5-ecef7dddf1ad,Cash,male,Philadelphia,PA,East Coast,26.56
+94991cb7-d5ee-4fca-8bde-93a948159ce4,Refund_Credit,rather not say,"Washington, D.C.",DC,East Coast,8.98
+f3942051-61c6-48ac-867c-04e7e775000d,Gift_Card,male,Atlanta,GA,South Coast,91.1
+a50bc1cd-8e92-462f-83db-d4439672fe2c,Gift_Card,female,Salt Lake City,UT,West Coast,86.31
+6babdc55-2912-4418-8cb9-3fae1389e69b,Cash,female,Los Angeles,CA,West Coast,61.99
+d9df17d7-3ac3-44e7-af5b-2e1d205fc1ba,Credit,male,Miami,FL,East Coast,22.6
+4972d28e-b244-428f-b1bc-5e017209a7aa,Credit,female,Miami,FL,East Coast,22.91
+af73d479-e394-4eaa-92f7-41dc6a5de1c0,Gift_Card,female,San Francisco,CA,West Coast,90.58
+12b35bd8-1540-4730-b370-10b9ab0b3ad9,Debit,female,Phoenix,AZ,West Coast,40.46
+77c49787-80e2-417a-b8c3-8b4ccf4a599c,Credit,male,Raleigh,NC,South Coast,84.26
+3de2b8ec-2b9f-4d23-8c86-e56535f780b5,Cash,rather not say,Miami,FL,East Coast,7.09
+2be50a63-89ab-4e68-a1c7-c17a2dfc4655,Cash,rather not say,Dallas,TX,South Coast,12.64
+e4b5e903-211a-4412-8eb3-265695f0eb15,Gift_Card,male,Phoenix,AZ,West Coast,22.27
+f1083a07-bf9b-4438-8da4-7a95cf3263e7,Cash,rather not say,Tampa,FL,East Coast,27.87
+8a0ad5dd-8c59-4dd0-bacd-82b64359acfb,Debit,female,Orlando,FL,East Coast,11.66
+61ad6cee-7a60-4ed7-b796-79f61197ea07,Refund_Credit,rather not say,Salt Lake City,UT,West Coast,14.9
+0c8676f1-752a-4862-9e5a-f90a64f1c560,Gift_Card,female,New York,NY,East Coast,89.68
+0140312c-33a4-43e8-9fc1-b8ecb1895834,Credit,rather not say,Chicago,IL,Midwest,82.72
+29555fd3-53f1-4551-9b9b-e53fec1dc064,Gift_Card,male,St. Louis,MO,Midwest,71.67
+4172f62e-f69e-4ea7-bae0-2fb9a55ba385,Refund_Credit,female,Philadelphia,PA,East Coast,34.93
+8bd84ebf-e80e-4553-be4f-6dac68baebc0,Credit,female,Miami,FL,East Coast,74.62
+218993b3-daf1-4b92-8ae0-9953efafd1ec,Debit,rather not say,San Francisco,CA,West Coast,45.33
+27b5a531-3edd-40eb-8bac-cceb26269d7d,Refund_Credit,female,Houston,TX,South Coast,71.21
+d3922b8a-1282-421f-b85c-c82222c5a84e,Cash,rather not say,Miami,FL,East Coast,92.62
+6f26297a-e563-47df-907d-277d9d80e4f4,Debit,male,St. Louis,MO,Midwest,19.18
+24c20aa2-d1b2-4fec-b667-18c2e14654de,Cash,rather not say,Miami,FL,East Coast,48.82
+33f9f9e4-4e3e-4d8b-9217-e43e72ff199f,Gift_Card,female,New York,NY,East Coast,71.3
+9b90b23d-b112-4d00-be45-62cb73962ac5,Credit,rather not say,Salt Lake City,UT,West Coast,90.97
+abe7e546-ff30-473a-bf1a-4491d5b6f636,Refund_Credit,female,"Washington, D.C.",DC,East Coast,52.89
+ef0189b2-eaed-4025-a567-80d8bef11230,Refund_Credit,female,New York,NY,East Coast,9.55
+aba37bc8-74d4-4b25-997f-db05f3695d8e,Refund_Credit,female,Denver,CO,Midwest,97.17
+8a953560-ea2f-4303-ab50-130df84b64c0,Cash,male,Minneapolis,MN,Midwest,69.44
+62e44992-3573-4c27-98d0-c9d2196fe9fd,Refund_Credit,rather not say,Indianapolis,IN,Midwest,71.51
+44a559b7-5092-4a34-8f7a-58499e261a09,Credit,male,Atlanta,GA,South Coast,47.25
+f374f167-3397-438c-a052-4af0a107f513,Gift_Card,male,Minneapolis,MN,Midwest,33.25
+12169bf8-d021-4dd9-b4d4-b9ac90be7b1e,Refund_Credit,rather not say,Charlotte,NC,South Coast,18.11
+97e470ef-6a3c-4894-a2d0-d96ce9474e8a,Debit,rather not say,San Francisco,CA,West Coast,72.92
+341dbb4a-dcfa-4576-ad81-5a3f4717cfba,Debit,male,Dallas,TX,South Coast,56.14
+79ebb051-08ca-4610-b524-102809cc2924,Gift_Card,rather not say,Charlotte,NC,South Coast,82.85
+8494b33f-7078-4bd3-9b7d-2ef547067b67,Debit,female,Raleigh,NC,South Coast,68.07
+ce6663e7-c6ef-447e-adc3-cc6ffe9d8d04,Gift_Card,female,Boston,MA,East Coast,85.95
+cc6dc884-ad50-4157-b5c8-b43a532a67f7,Gift_Card,rather not say,Houston,TX,South Coast,37.51
+3bee1032-6a9b-4f2d-aaff-b81bf52e7ef4,Debit,female,Charlotte,NC,South Coast,18.95
+9d716936-82a6-4e01-9a58-01c47005db02,Cash,male,Minneapolis,MN,Midwest,98.58
+11fce227-1272-4ec2-91a5-4b85e2c4caf6,Cash,female,Orlando,FL,East Coast,87.04
+59810b3d-2e1e-481a-ac1d-84d71cd4c7f3,Credit,male,Chicago,IL,Midwest,98.97
+f3e1e76a-06df-44c6-923b-950110649c78,Credit,female,Tampa,FL,East Coast,69.43
+3e6a1b3c-1dcc-433b-8946-560443557879,Debit,female,Houston,TX,South Coast,57.77
+62b21d87-3f7a-4050-b6ea-61e715e90152,Gift_Card,male,Boston,MA,East Coast,64.1
+531e5791-d832-4447-b2a6-4a9764717496,Credit,male,Portland,OR,West Coast,64.31
+4eca1aaf-1665-4110-9e89-83dfa5091db6,Cash,male,Denver,CO,Midwest,30.32
+7a57520f-098c-4d60-8419-8cd340d4e012,Refund_Credit,female,Austin,TX,South Coast,40.48
+015738cd-74dc-4d3f-816f-0c1aaed886dd,Refund_Credit,female,Indianapolis,IN,Midwest,73.07
+218322c1-af1c-445b-92b4-a53f686bd306,Credit,rather not say,Indianapolis,IN,Midwest,16.39
+f3d0fcd1-3aaa-4416-9c70-b0c31c572808,Cash,rather not say,Jacksonville,FL,East Coast,85.34
+c9549853-7ec2-4e78-b161-28cb7bec6658,Debit,female,Tampa,FL,East Coast,92.5
+09474d6b-567c-4105-a33d-af292babb6e8,Refund_Credit,male,Los Angeles,CA,West Coast,46.09
+71eed3a6-8755-468e-80f7-a552872fb5c6,Gift_Card,rather not say,St. Louis,MO,Midwest,69.82
+96561f65-0ce6-4b19-a032-71f3487c463c,Refund_Credit,rather not say,Atlanta,GA,South Coast,65.3
+5630e8e7-6c86-4dcd-be36-4265a8572052,Gift_Card,male,San Diego,CA,West Coast,65.91
+43914896-722d-4de8-9d91-91993b8053ab,Refund_Credit,rather not say,San Francisco,CA,West Coast,31.16
+7c705242-fe4f-4a4d-8ba5-fe075ace2955,Debit,male,Minneapolis,MN,Midwest,77.31
+d55cfa33-354a-4369-a504-c527266fca5e,Cash,female,Denver,CO,Midwest,73.45
+e525d024-4b24-4a32-b646-477c8c9eb8bb,Refund_Credit,male,Los Angeles,CA,West Coast,7.2
+e7ba112c-9c73-415c-afd9-5a173690677b,Credit,male,New York,NY,East Coast,8.11
+db8b9398-710f-4347-8c4e-fd1cfe99ba0a,Debit,female,Austin,TX,South Coast,5.5
+c7ee3b30-ef69-4cd1-9de5-2209609753f7,Debit,rather not say,Indianapolis,IN,Midwest,16.57
+986b421f-6736-489c-bd98-b900ab48f47b,Credit,rather not say,Portland,OR,West Coast,10.13
+4a5bec53-40c4-462e-9764-b83b1cb326da,Gift_Card,rather not say,Los Angeles,CA,West Coast,71.97
+2a155f22-1526-4c84-9dca-e8180b19f48d,Refund_Credit,female,Portland,OR,West Coast,54.45
+e5b15733-a71a-4516-83ff-1332b4561e9f,Cash,female,San Diego,CA,West Coast,91.36
+4f6b7159-3704-465b-a13b-01b04eaca8b7,Cash,rather not say,"Washington, D.C.",DC,East Coast,57.26
+25cefae7-0953-4497-b6cf-c1f9c3cf936e,Gift_Card,rather not say,Atlanta,GA,South Coast,87.31
+b3942f24-ebbc-4673-8365-a8d161611946,Refund_Credit,rather not say,Minneapolis,MN,Midwest,44.98
+f4a5d701-2842-410f-bbc3-6e26cf1cc0b7,Gift_Card,rather not say,Nashville,TN,South Coast,66.07
+8674c516-2216-4e97-8a7c-22e091762d7c,Debit,rather not say,Nashville,TN,South Coast,77.7
+71772fbe-1ca6-4299-ac35-84352654d5d0,Credit,rather not say,San Diego,CA,West Coast,47.05
+992758b9-4d39-4743-9fe9-fa58d5030694,Gift_Card,male,Cleveland,OH,Midwest,5.2
+4c690d69-dd55-4a20-9ed7-424c1d2f6513,Credit,female,San Diego,CA,West Coast,22.13
+b0259459-a821-4686-bc21-d815ae52e275,Cash,female,Seattle,WA,West Coast,54.57
+f492e366-2a46-4216-8922-a6678fdecac5,Gift_Card,female,Jacksonville,FL,East Coast,94.77
+0edc0496-9fe7-4d1c-a0da-db9ebe1e043f,Credit,female,Indianapolis,IN,Midwest,66.89
+87ce19f0-3ab1-4870-a5dc-0709b22932af,Cash,male,Salt Lake City,UT,West Coast,98.78
+40250d6b-6946-40e8-84a8-e4242f046827,Gift_Card,male,San Francisco,CA,West Coast,77.98
+b1f0668b-68a8-4e1e-a967-a3b7dedd30dc,Credit,male,Dallas,TX,South Coast,69.4
+32ece997-f7e0-41f8-90ec-f12d6e0c7f98,Cash,rather not say,New York,NY,East Coast,20.65
+f97de22f-2551-484a-9b70-7c9e9c21c5a0,Cash,female,Raleigh,NC,South Coast,53.63
+2487bf0d-a1c4-4e6e-909a-c7fe95a8067d,Gift_Card,male,Seattle,WA,West Coast,95.14
+dcccc875-b13d-46e8-a3e0-ca23fced5f66,Refund_Credit,female,Phoenix,AZ,West Coast,14.6
+28f88f16-ec47-4f0c-ae9d-ceb6ed22d834,Credit,female,San Diego,CA,West Coast,49.8
+0fc29331-b7fd-486a-adc8-d81ccdbd3c25,Debit,male,Dallas,TX,South Coast,16.45
+146b5388-55a5-4abe-bec1-505c3da56ea0,Gift_Card,female,Atlanta,GA,South Coast,28.29
+2189a3ff-124c-4097-9aa2-ba87f93a4a2e,Gift_Card,female,Detroit,MI,Midwest,95.19
+a5e14b7e-946d-4a56-b754-e5621a523f8e,Credit,female,San Diego,CA,West Coast,66.64
+7e332636-0d20-4982-b842-3bc155ba6a05,Cash,rather not say,Cleveland,OH,Midwest,92.46
+3698f423-2d56-471a-9e67-1cd85d7c262a,Credit,male,Atlanta,GA,South Coast,61.1
+551966fe-5f0f-4119-b58d-ac13857e97a4,Gift_Card,female,Seattle,WA,West Coast,85.68
+238e404c-c056-4be0-b00d-e5217420a4f7,Gift_Card,rather not say,Salt Lake City,UT,West Coast,20.3
+44f88d8d-1adb-4f45-8ea3-9469b10fdccb,Debit,rather not say,Denver,CO,Midwest,29.38
+79223335-0aa3-44aa-a7fe-5033b2e3a302,Gift_Card,rather not say,Portland,OR,West Coast,61.59
+b2cf7bb4-9219-4fd1-809d-d64956b4e750,Credit,male,Atlanta,GA,South Coast,9.55
+c0ce6987-ad59-4a35-bb07-caeb1622123a,Refund_Credit,male,Austin,TX,South Coast,8.22
+e1877294-242f-47a2-9dfa-4eea005d4574,Refund_Credit,male,Cleveland,OH,Midwest,7.63
+2cdace79-fc33-438d-babe-c2ba897d1939,Gift_Card,rather not say,St. Louis,MO,Midwest,71.44
+fb1c67b0-1db1-4b68-a2e7-7eaca6793a7c,Gift_Card,male,Atlanta,GA,South Coast,62.68
+a4be4c7c-72d9-4d5c-b706-d97df8c10af6,Debit,rather not say,Portland,OR,West Coast,3.65
+fe284e1c-29a7-44cd-9c3d-601b916697ab,Cash,male,Denver,CO,Midwest,33.52
+25a0f259-ee2f-4a08-9715-6fb2fb2daeaa,Cash,female,Atlanta,GA,South Coast,15.86
+4cb3e030-257a-4c87-b73b-d9098c94c8da,Gift_Card,female,Charlotte,NC,South Coast,73.81
+e1c69aa4-c005-4dcd-b13f-f2136c706f43,Refund_Credit,female,Cleveland,OH,Midwest,42.75
+aa33ac07-0637-4aaa-ac89-e9ea2b33a2d7,Gift_Card,male,Cleveland,OH,Midwest,12.72
+067beff3-182c-4f1b-a1cd-cd7dd5af7e7e,Debit,male,Denver,CO,Midwest,53.23
+f273dfa6-2558-45c8-b944-1b9dc140ba13,Cash,rather not say,San Francisco,CA,West Coast,76.25
+0a12c428-f933-4cc0-bc21-e40a8d8a7e85,Cash,male,Dallas,TX,South Coast,1.34
+19b0aaff-5ca8-4f6e-916e-0811345d1bb9,Credit,male,Phoenix,AZ,West Coast,44.11
+b0379b22-7be8-428b-97c7-f696098bed6e,Debit,rather not say,Minneapolis,MN,Midwest,43.04
+386e2fa3-4476-4cd2-8927-384a988a2375,Debit,male,Chicago,IL,Midwest,71.12
+dd2d8329-e0b3-4505-9424-78081f297c89,Credit,rather not say,Austin,TX,South Coast,48.17
+b42f864e-27ee-41e4-9f42-a826457801f0,Refund_Credit,female,San Francisco,CA,West Coast,5.96
+96da8111-48eb-4422-bfb5-3aa34c89fe64,Cash,rather not say,Phoenix,AZ,West Coast,2.52
+d8426889-dafc-4771-a896-d60ab2a79e07,Debit,female,Jacksonville,FL,East Coast,66.59
+e09a6bde-b975-48ae-bab0-21408fd283d6,Gift_Card,female,Houston,TX,South Coast,61.23
+105a5a41-2169-447f-a029-bb5573f11005,Credit,male,Cleveland,OH,Midwest,70.27
+adede073-4685-48dc-91b8-63022cdc25bb,Refund_Credit,male,Nashville,TN,South Coast,76.67
+569a6fac-9f61-4a17-847e-dab57aee99f7,Gift_Card,female,Salt Lake City,UT,West Coast,16.71
+152f3e0e-f71d-4639-b478-070a7e5e3e33,Cash,female,Phoenix,AZ,West Coast,35.08
+e74ed69c-0849-4bee-bdd8-59f86a3567ff,Gift_Card,rather not say,Phoenix,AZ,West Coast,3.35
+ee50e73b-b09a-4bce-9c3f-a16ae529b454,Refund_Credit,female,"Washington, D.C.",DC,East Coast,91.19
+d156ecd9-5780-4a0b-942e-aeeee0f83583,Refund_Credit,female,San Diego,CA,West Coast,72.49
+8e234127-26d4-466a-9781-042454f55eb7,Cash,female,Jacksonville,FL,East Coast,76.77
+25f17e60-18f9-4fde-8fba-0425c1139fbd,Gift_Card,rather not say,Raleigh,NC,South Coast,92.01
+5c86789f-8d7e-40f7-9adc-95e3cc5193a5,Gift_Card,rather not say,Salt Lake City,UT,West Coast,51.27
+a83f90fc-ecb2-433e-9d5c-1b423c61e85f,Cash,male,Minneapolis,MN,Midwest,62.78
+a22a9ec5-23a0-4c9e-96e5-11aeecc57450,Cash,female,Charlotte,NC,South Coast,96.81
+7f9a4300-a181-46d8-a061-fc225933e92f,Credit,rather not say,Orlando,FL,East Coast,34.09
+add44c64-3aa7-4169-a328-4befdf417d67,Gift_Card,female,Tampa,FL,East Coast,15.95
+b71b6766-59b9-495d-a3fd-7d7bcd8bde40,Gift_Card,female,Atlanta,GA,South Coast,30.28
+878005b9-2b35-4a32-a4cf-6c4b5f67af70,Gift_Card,female,Raleigh,NC,South Coast,35.38
+fecbc7f2-4acc-4641-bce7-13d604918bbd,Cash,female,Chicago,IL,Midwest,59.05
+4245e51e-d93e-444e-8210-644fc1ad9fb3,Debit,female,Indianapolis,IN,Midwest,49.35
+673c11bf-fc4c-4ddc-9239-eb1ea487c6ff,Refund_Credit,female,"Washington, D.C.",DC,East Coast,96.17
+2a2e4a09-1f60-4f53-9094-d9f9914ac645,Refund_Credit,female,Minneapolis,MN,Midwest,38.24
+2eefe0d9-9530-4642-b926-5b4ab82917a7,Cash,male,Indianapolis,IN,Midwest,85.8
+b5a02a34-5f2b-4386-a5e4-a6889bb09078,Credit,female,Raleigh,NC,South Coast,66.55
+8a6fecfe-67c2-427f-a065-d6dec0075a95,Debit,female,Salt Lake City,UT,West Coast,45.85
+48ba4a7f-7d6b-45f9-a2d2-ecfe70852621,Cash,male,Philadelphia,PA,East Coast,76.1
+49a54893-ac30-490e-9e4c-8033ee41e35d,Cash,male,Philadelphia,PA,East Coast,48.54
+0a4c1224-b54b-44f5-af68-3e585440f223,Cash,male,Philadelphia,PA,East Coast,32.72
+c2f77b84-9d7d-42fc-952f-2d63af927008,Credit,female,Phoenix,AZ,West Coast,46.85
+a7ed15ea-6922-4b13-a2ae-e995bf5b98d9,Credit,male,St. Louis,MO,Midwest,88.91
+44edc846-5995-4433-bbd5-3d7080971175,Credit,female,Jacksonville,FL,East Coast,1.05
+0266b7be-e930-4787-af35-4e6e38509d5f,Cash,male,Minneapolis,MN,Midwest,79.18
+c9fa7df8-e93d-4750-9dfd-43021a290bb0,Refund_Credit,female,Seattle,WA,West Coast,6.63
+4e0a6a5f-d070-4725-8146-d11f36555e78,Cash,male,Jacksonville,FL,East Coast,4.51
+b9c9a140-36a3-4ad3-b264-a20c9fe67703,Cash,female,Raleigh,NC,South Coast,20.35
+70daa4c3-634a-46d5-b730-a135dfe1f086,Refund_Credit,rather not say,Salt Lake City,UT,West Coast,17.22
+b55fa4ee-2515-4a45-ac19-d630a47a0161,Refund_Credit,female,Minneapolis,MN,Midwest,90.15
+15872b5c-4784-45d3-9e8a-545da4c8065a,Gift_Card,rather not say,Los Angeles,CA,West Coast,32.09
+c877a9f3-da3c-49d3-af91-2aaeab29c5d1,Cash,female,Atlanta,GA,South Coast,65.76
+ae92e6a8-9b3c-4e2c-9d92-7f9c7b6a41c5,Gift_Card,rather not say,Orlando,FL,East Coast,86.1
+b4ac5114-db35-4b86-ad29-5fec76739aea,Credit,rather not say,Denver,CO,Midwest,61.93
+fc1a0cb3-1bf5-498f-adbe-fd8fa6b48ea9,Debit,male,Minneapolis,MN,Midwest,29.46
+a5a9cd79-8bd1-4ba6-81b0-cc62005daef4,Gift_Card,rather not say,Tampa,FL,East Coast,84.25
+b1612525-e3b9-470b-b810-d3c17a772c0d,Refund_Credit,rather not say,Nashville,TN,South Coast,33.85
+15f2a2ee-fade-4bdd-9b3f-3f7930620628,Credit,female,St. Louis,MO,Midwest,61.57
+d0df7ab5-4d94-4108-ab27-d2c6a1895d07,Credit,rather not say,Tampa,FL,East Coast,16.35
+77caab87-14bb-4633-8fcf-5211c989a14d,Cash,female,Orlando,FL,East Coast,25.4
+d2f8c852-1644-4e62-bf2d-9a83355addf0,Debit,female,Seattle,WA,West Coast,41.53
+a94cda94-4eb5-479f-a698-558d2ff4ebf4,Credit,male,Miami,FL,East Coast,99.14
+1f885b4f-f3c7-4293-afbe-fab18f825498,Gift_Card,male,Portland,OR,West Coast,85.16
+e2a6a35f-e7f8-49e7-9679-a1614e4665dc,Credit,rather not say,St. Louis,MO,Midwest,13.8
+c18f4e7d-509f-4077-8611-42f028c75bd6,Debit,male,Cleveland,OH,Midwest,25.73
